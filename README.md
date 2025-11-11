@@ -3,6 +3,7 @@ This is a dark theme with low contrast, yet it still reads clearly.  Very easy o
 
 <img width="2880" height="1920" alt="grid background" src="https://github.com/adoante/vague-ado/blob/vague-ado/backgrounds/grid-bg.png" />
 <img width="2880" height="1920" alt="4-foggy-mountain" src="https://raw.githubusercontent.com/adoante/vague-ado/refs/heads/vague-ado/backgrounds/4-foggy-mountain.jpeg" />
+<img width="2880" height="1920" alt="Black Sand Dunes" src="https://raw.githubusercontent.com/adoante/vague-ado/refs/heads/vague-ado/backgrounds/pexels-adrien-olichon-1257089-2387793.jpg" />
 
 # Install
 ```omarchy-theme-install https://github.com/adoante/vague-ado```
@@ -11,3 +12,4 @@ This is a dark theme with low contrast, yet it still reads clearly.  Very easy o
 * [Omarchy](https://omarchy.org) Opinionated Arch/Hyprland Setup By DHH  
 * [Vague](https://github.com/vague2k/vague.nvim) Neovim theme by vague2k.
 * [Rodney Nedlose](https://github.com/Rnedlose) Created the Omarchy theme. (Original repo gone as of this commit.)
+* [Black Sand Dunes](https://www.pexels.com/photo/black-sand-dunes-2387793/) Cool dark wallpaper
